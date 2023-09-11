@@ -1,5 +1,5 @@
 # ベースイメージの指定
-FROM python:3.8
+FROM python:3.10.11
 
 # 作業ディレクトリの設定
 WORKDIR /lightgbm
