@@ -10,3 +10,8 @@ print(df.head())
 df.isnull().sum()
 
 df.info()
+
+df['MEDV'].describe()
+
+df['MEDV'].hist()
+plt.show()

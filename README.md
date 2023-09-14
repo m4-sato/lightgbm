@@ -16,13 +16,13 @@
 ### Docker イメージのビルド
 
 ```bash
-docker build -t my_ml_image .
+docker build -t 20230914 .
 ```
 
 ### コンテナの実行
 
 ```bash
-docker run my_ml_image
+docker run 20230914
 ```
 
 ### イメージの確認
